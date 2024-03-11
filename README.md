@@ -2,6 +2,6 @@
 ## 静态图 
 1. CGNN [code](https://github.com/DeepGraphLearning/ContinuousGNN
 )
-2. NDCN [code](https://github.com/ calvin-zcx/ndcn)
+2. NDCN [code](https://github.com/calvin-zcx/ndcn)
 3. GDE[code](https://github.com/Zymrael/gde
 )
