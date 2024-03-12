@@ -17,3 +17,5 @@
 15. Huang Z, Sun Y, Wang W. Learning continuous system dynamics from irregularly-sampled partial observations[J]. Advances in Neural Information Processing Systems, 2020, 33: 16177-16187. [论文](https://proceedings.neurips.cc/paper/2020/file/ba4849411c8bbdd386150e5e32204198-Paper.pdf)
 16. Huang Z, Zhao W, Gao J, et al. TANGO: Time-Reversal Latent GraphODE for Multi-Agent Dynamical Systems[J]. arXiv preprint arXiv:2310.06427, 2023. [论文](https://arxiv.org/pdf/2310.06427.pdf)
 17. Huang Z, Sun Y, Wang W. Generalizing graph ode for learning complex system dynamics across environments[C]//Proceedings of the 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining. 2023: 798-809. [论文](https://dl.acm.org/doi/pdf/10.1145/3580305.3599362)
+18. Gao Z, Wang H, Wang Y B, et al. Probabilistic continuous-time whole-graph forecasting[J]. 2022.[论文](https://kdd-milets.github.io/milets2022/papers/MILETS_2022_paper_7178.pdf)
+19. Liu Y, Cheng J, Zhao H, et al. Physics-Inspired Neural Graph ODE for Long-term Dynamical Simulation[J]. arXiv preprint arXiv:2308.13212, 2023.[论文](https://arxiv.org/pdf/2308.13212.pdf)
