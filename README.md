@@ -19,6 +19,7 @@
 14. Wang Z, Yang P, Fan X, et al. Contig: Continuous representation learning on temporal interaction graphs[J]. Neural Networks, 2024, 172: 106151. [论文](https://arxiv.org/pdf/2110.06088.pdf)
 15. Jin M, Li Y F, Pan S. Neural temporal walks: Motif-aware representation learning on continuous-time dynamic graphs[J]. Advances in Neural Information Processing Systems, 2022, 35: 19874-19886. [论文](https://proceedings.neurips.cc/paper_files/paper/2022/file/7dadc855cef7494d5d956a8d28add871-Paper-Conference.pdf)
 16. Qin Y, Ju W, Wu H, et al. Learning graph ODE for continuous-time sequential recommendation[J]. IEEE Transactions on Knowledge and Data Engineering, 2024.[论文](https://arxiv.org/html/2304.07042v2)
+17. Poli M, Massaroli S, Park J, et al. Graph neural ordinary differential equations[J]. arXiv preprint arXiv:1911.07532, 2019. [paper](https://arxiv.org/pdf/1911.07532.pdf) [code](https://github.com/Zymrael/gde)
 
 ### 连续动态图ODE作为推断器
 19. Huang Z, Sun Y, Wang W. Learning continuous system dynamics from irregularly-sampled partial observations[J]. Advances in Neural Information Processing Systems, 2020, 33: 16177-16187. [论文](https://proceedings.neurips.cc/paper/2020/file/ba4849411c8bbdd386150e5e32204198-Paper.pdf)
