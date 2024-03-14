@@ -13,12 +13,13 @@
 10. Huang Z, Sun Y, Wang W. Coupled graph ode for learning interacting system dynamics[C]//Proceedings of the 27th ACM SIGKDD conference on knowledge discovery & data mining. 2021: 705-715. [论文](https://dl.acm.org/doi/pdf/10.1145/3447548.3467385)
 11. Luo X, Yuan J, Huang Z, et al. Hope: High-order graph ode for modeling interacting dynamics[C]//International Conference on Machine Learning. PMLR, 2023: 23124-23139. [论文](https://proceedings.mlr.press/v202/luo23f/luo23f.pdf)
 12. Hou J, Guo X, Liu J, et al. Structure-Enhanced Graph Neural ODE Network for Temporal Link Prediction[C]//International Conference on Artificial Neural Networks. Cham: Springer Nature Switzerland, 2023: 563-575. [代码](https://github.com/Houl1/SEGODE)
+13. Guo J, Zhang P, Li C, et al. Evolutionary preference learning via graph nested gru ode for session-based recommendation[C]//Proceedings of the 31st ACM international conference on information & knowledge management. 2022: 624-634. [论文](https://arxiv.org/pdf/2206.12779.pdf)
 ## 连续动态图
 ### 连续动态图ODE作为编码器
 14. Wang Z, Yang P, Fan X, et al. Contig: Continuous representation learning on temporal interaction graphs[J]. Neural Networks, 2024, 172: 106151. [论文](https://arxiv.org/pdf/2110.06088.pdf)
 15. Jin M, Li Y F, Pan S. Neural temporal walks: Motif-aware representation learning on continuous-time dynamic graphs[J]. Advances in Neural Information Processing Systems, 2022, 35: 19874-19886. [论文](https://proceedings.neurips.cc/paper_files/paper/2022/file/7dadc855cef7494d5d956a8d28add871-Paper-Conference.pdf)
 16. Qin Y, Ju W, Wu H, et al. Learning graph ODE for continuous-time sequential recommendation[J]. IEEE Transactions on Knowledge and Data Engineering, 2024.[论文](https://arxiv.org/html/2304.07042v2)
-17. Guo J, Zhang P, Li C, et al. Evolutionary preference learning via graph nested gru ode for session-based recommendation[C]//Proceedings of the 31st ACM international conference on information & knowledge management. 2022: 624-634. [论文](https://arxiv.org/pdf/2206.12779.pdf)
+
 ### 连续动态图ODE作为推断器
 19. Huang Z, Sun Y, Wang W. Learning continuous system dynamics from irregularly-sampled partial observations[J]. Advances in Neural Information Processing Systems, 2020, 33: 16177-16187. [论文](https://proceedings.neurips.cc/paper/2020/file/ba4849411c8bbdd386150e5e32204198-Paper.pdf)
 20. Huang Z, Zhao W, Gao J, et al. TANGO: Time-Reversal Latent GraphODE for Multi-Agent Dynamical Systems[J]. arXiv preprint arXiv:2310.06427, 2023. [论文](https://arxiv.org/pdf/2310.06427.pdf)
