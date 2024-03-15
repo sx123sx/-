@@ -9,8 +9,8 @@
 5. Hwang J, Choi J, Choi H, et al. Climate modeling with neural diffusion equations[C]//2021 IEEE International Conference on Data Mining (ICDM). IEEE, 2021: 230-239. [论文](https://arxiv.org/pdf/2111.06011&ved=2ahUKEwjxwP-F1O_9AhUBlIsKHT8iDBAQFnoECA0QAQ&usg=AOvVaw0lnPCxGStME21aopsiIlVx) [代码](https://github.com/jeehyunhwang/neural-diffusion-equation)
 ## 离散动态图神经ODE
 6. Zang C, Wang F. Neural dynamics on complex networks[C]//Proceedings of the 26th ACM SIGKDD international conference on knowledge discovery & data mining. 2020: 892-902.[论文](https://dl.acm.org/doi/pdf/10.1145/3394486.3403132) [代码](https://github.com/calvin-zcx/ndcn)
-7. Fang Z, Long Q, Song G, et al. Spatial-temporal graph ode networks for traffic flow forecasting[C]//Proceedings of the 27th ACM SIGKDD conference on knowledge discovery & data mining. 2021: 364-373. [paper](https://arxiv.org/pdf/2106.12931.pdf) [code](https://github.com/square-coder/STGODE)
-8. Jin M, Zheng Y, Li Y F, et al. Multivariate time series forecasting with dynamic graph neural odes[J]. IEEE Transactions on Knowledge and Data Engineering, 2022. [论文](https://arxiv.org/pdf/2202.08408.pdf) [code](https://github.com/GRAND-Lab/MTGODE)
+7. Fang Z, Long Q, Song G, et al. Spatial-temporal graph ode networks for traffic flow forecasting[C]//Proceedings of the 27th ACM SIGKDD conference on knowledge discovery & data mining. 2021: 364-373. [论文r](https://arxiv.org/pdf/2106.12931.pdf) [代码](https://github.com/square-coder/STGODE)
+8. Jin M, Zheng Y, Li Y F, et al. Multivariate time series forecasting with dynamic graph neural odes[J]. IEEE Transactions on Knowledge and Data Engineering, 2022. [论文](https://arxiv.org/pdf/2202.08408.pdf) [代码](https://github.com/GRAND-Lab/MTGODE)
 9. Chen Y, Qin Y, Li K, et al. Adaptive Spatial-Temporal Graph Convolution Networks for Collaborative Local-Global Learning in Traffic Prediction[J]. IEEE Transactions on Vehicular Technology, 2023. [论文](http://www.cs.newpaltz.edu/~lik/publications/Yibi-Chen-IEEE-TVT-2023)
 10. Huang Z, Sun Y, Wang W. Coupled graph ode for learning interacting system dynamics[C]//Proceedings of the 27th ACM SIGKDD conference on knowledge discovery & data mining. 2021: 705-715. [论文](https://dl.acm.org/doi/pdf/10.1145/3447548.3467385)
 11. Luo X, Yuan J, Huang Z, et al. Hope: High-order graph ode for modeling interacting dynamics[C]//International Conference on Machine Learning. PMLR, 2023: 23124-23139. [论文](https://proceedings.mlr.press/v202/luo23f/luo23f.pdf)
@@ -21,7 +21,7 @@
 14. Wang Z, Yang P, Fan X, et al. Contig: Continuous representation learning on temporal interaction graphs[J]. Neural Networks, 2024, 172: 106151. [论文](https://arxiv.org/pdf/2110.06088.pdf)
 15. Jin M, Li Y F, Pan S. Neural temporal walks: Motif-aware representation learning on continuous-time dynamic graphs[J]. Advances in Neural Information Processing Systems, 2022, 35: 19874-19886. [论文](https://proceedings.neurips.cc/paper_files/paper/2022/file/7dadc855cef7494d5d956a8d28add871-Paper-Conference.pdf)
 16. Qin Y, Ju W, Wu H, et al. Learning graph ODE for continuous-time sequential recommendation[J]. IEEE Transactions on Knowledge and Data Engineering, 2024.[论文](https://arxiv.org/html/2304.07042v2)
-17. Poli M, Massaroli S, Park J, et al. Graph neural ordinary differential equations[J]. arXiv preprint arXiv:1911.07532, 2019. [paper](https://arxiv.org/pdf/1911.07532.pdf) [code](https://github.com/Zymrael/gde)
+17. Poli M, Massaroli S, Park J, et al. Graph neural ordinary differential equations[J]. arXiv preprint arXiv:1911.07532, 2019. [论文](https://arxiv.org/pdf/1911.07532.pdf) [代码](https://github.com/Zymrael/gde)
 
 ### 连续动态图ODE作为推断器
 19. Huang Z, Sun Y, Wang W. Learning continuous system dynamics from irregularly-sampled partial observations[J]. Advances in Neural Information Processing Systems, 2020, 33: 16177-16187. [论文](https://proceedings.neurips.cc/paper/2020/file/ba4849411c8bbdd386150e5e32204198-Paper.pdf)
